@@ -174,4 +174,4 @@ Once the backend is running, you can access the interactive API docs (Swagger UI
 
 ---
 
-<p align="center">Made with ❤️ by the Google DeepMind Team</p>
+
